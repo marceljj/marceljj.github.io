@@ -1,2 +1,2 @@
-# marceljj.github.io
-GitHub Pages
+## Repository for personal website
+https://marceljj.org
