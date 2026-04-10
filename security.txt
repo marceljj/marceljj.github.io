@@ -1,4 +1,4 @@
 Contact: mailto:me@marceljj.org
-Expires: 2026-04-10T07:30:00.000Z
+Expires: 2027-04-10T07:30:00.000Z
 Preferred-Languages: en, pl, es
-Canonical: https://marceljj.org/.well-known/security.txt
+Canonical: http://marceljj.org/security.txt
