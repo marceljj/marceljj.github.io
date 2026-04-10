@@ -1,0 +1,24 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Contact: mailto:me@marceljj.org
+Expires: 2027-04-10T09:52:50.000Z
+Preferred-Languages: en, pl, es
+Canonical: https://marceljj.org/.well-known/security.txt
+Encryption: https://marceljj.org/.well-known/pgp-public.txt
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEaRM6ShAPKqGASvTrA8ynA9EKCXwFAmnYzyEACgkQA8ynA9EK
+CXxcHw//ZuYc6u84edlqNFVzmBJQFhBbAkGtIBmC3Hb9QAw0A54KkW9aS/+vJCrp
+D2ysK8bihy8+P/0FiJUBo8oxQLaCI16c3CHMCHxl3IbNIybpwnEif+eNK3lvHwXi
+D2PByNDIQO748CYawIR58o4mQSG/3/kDsmV9dBYA1+wPSMMyMKqJh1wRmZU9AUwA
+FnilOWqGwKFp8L1KLqOQYCHb8U50yzANZ2ILWLH7i2oz3+5zph2Vi8cfVi+TOhBD
+OdnTksPGSucyGcPn6pqpYN4SCU+much2IYnOJcUIHRP33ecy21jKyv4ro1U832Y0
+gaIYpIrAUeTIHmBl90r2Biuyob6ybuDG7rSTrDhWi9lGQS0OG7qo4CI4QRglYpxp
++Fy98VSLces3NAh/zMtRQbQFARftdVB9IjnKgXaezIiasTZQjVT6Z9Z0y5rkU2aT
+HuWXMX6MhyeaEmavazTd8q2VkigNlCJ8k822I0MHxyZ0vgEge7BDIyAwXWVDJET5
+38bTJSsuvwInN1SlKZ+e9rlyQCymYzQnN3Psz5q0BO+GR8unA95ewGdKThgZnAWf
+n48iEssqxYKHBpnMBssOKeyaeRXYcA6tTDFr4whH+2Q1+b98mee1CjM6d+VU9fb3
+j8gtGeqKuufgS4T5WvmAKbA2nCnZQsoZfC6l1Bdnk4iUHSvooRc=
+=pqQT
+-----END PGP SIGNATURE-----
