@@ -1,2 +1,2 @@
-## Repository for personal website
+## Repository for my personal website
 https://marceljj.org
